@@ -17,7 +17,7 @@ public class Main {
         boolean rodando = true;
         while (rodando) {
             exibirMenu();
-            System.out.println("Escolha uma opção: ");
+            System.out.println("Escolha uma opcao: ");
             int opcao = sc.nextInt();
             sc.nextLine();
  
